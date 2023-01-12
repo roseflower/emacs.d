@@ -1,0 +1,15 @@
+几年来，还是想用emacs，但原来学的全忘记了，这次又相当于从头来。
+先去官网下了最新版28.2（Emacs For Mac OS X：https://emacsformacosx.com）
+安装完之后，仍用了原来的配置，但忘记原来怎样配的了。
+于是又从网上找了各种参考，所以这次把自己怎样做的记录下来。
+对我帮助大的还是这篇文章：一年成为Emacs高手 (像神一样使用编辑器)https://github.com/redguardtoo/mastering-emacs-in-one-year-guide）
+有兴趣的朋友可以直接去他的链接去看，仍在更新。
+为了方便，把总结抄在这里：
+“再强调一下本文最重要的观点:
+
+以 解决实际问题 产生的兴趣引导
+完全照抄世界顶尖高手如 Steve Purcell 的配置, 尽量避免自己写 Lisp
+给高手报 bug 就是最好的学习,
+学习 Emacs 和 学任何专业技能 (拉小提琴, 解数学题) 的方法论都是一样的, 请参考 一万小时天才理论.”
+
+我直接先去抄份最新的Steve Purcell的配置（https://github.com/purcell/emacs.d）。
